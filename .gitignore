@@ -20,3 +20,20 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.env
+.venv
+venv/
+ENV/
+env/
+
+# uv
+uv.lock
+.python-version
